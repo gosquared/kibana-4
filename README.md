@@ -1,3 +1,5 @@
+Build a kibana 4 image with sense plugin installed.
+
 https://hub.docker.com/repository/docker/gosquared/kibana-4
 
 # Build
